@@ -1,16 +1,13 @@
-## Hi there 👋
+# HI i am Ejaz Shaikh a DevOps engineer with a focus on automation, scalable deployments, and cloud infrastructure.
 
-<!--
-**ejazshaikh-devops/ejazshaikh-devops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Competencies
 
-Here are some ideas to get you started:
+AWS Cloud (VPC, EC2, ALB, Auto Scaling, RDS, Route53 and Others) Azure,GCP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+DevOps Docker Terraform CI/CD (GitHub Actions)
+
+Linux System Networking DNS Security Groups ### Projects
+
+1. Highly Available 3-Tier Web Application on AWS
+2. Automation of Terraform Infrastructure
+3. CI/CD Deployment Pipeline with Dockerization
