@@ -2,11 +2,11 @@
 
 ## Competencies
 
-AWS Cloud (VPC, EC2, ALB, Auto Scaling, RDS, Route53 and Others) Azure,GCP
+1. AWS Cloud (VPC, EC2, ALB, Auto Scaling, RDS, Route53 and Others) Azure,GCP
+2. DevOps Docker Terraform CI/CD (GitHub Actions)
+3. Linux System Networking DNS Security Groups 
 
-DevOps Docker Terraform CI/CD (GitHub Actions)
-
-Linux System Networking DNS Security Groups ### Projects
+### Projects
 
 1. Highly Available 3-Tier Web Application on AWS
 2. Automation of Terraform Infrastructure
